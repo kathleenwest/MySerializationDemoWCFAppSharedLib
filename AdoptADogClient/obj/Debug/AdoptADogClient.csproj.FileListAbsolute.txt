@@ -1,0 +1,13 @@
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\bin\Debug\AdoptADogClient.exe.config
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\bin\Debug\AdoptADogClient.exe
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\bin\Debug\AdoptADogClient.pdb
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\bin\Debug\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\bin\Debug\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.frmMain.resources
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.Properties.Resources.resources
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.csproj.GenerateResource.cache
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.exe
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\AdoptADogClient\obj\Debug\AdoptADogClient.pdb

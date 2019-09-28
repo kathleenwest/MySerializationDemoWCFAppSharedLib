@@ -1,0 +1,10 @@
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\bin\WcfServiceApplication.dll.config
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\bin\WcfServiceApplication.dll
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\bin\WcfServiceApplication.pdb
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\bin\SharedLibrary.dll
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\bin\SharedLibrary.pdb
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\obj\Release\WcfServiceApplication.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\obj\Release\WcfServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\obj\Release\WcfServiceApplication.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\obj\Release\WcfServiceApplication.dll
+C:\Users\kathl\Dropbox\Projects\MySerializationDemoWCFAppSharedLib\WcfServiceApplication\obj\Release\WcfServiceApplication.pdb
